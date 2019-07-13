@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title> document object model </title>
+</head>
+<body>
+<h1> vamos a jugar con windows y con document </h1>
+<script type = "text/javascript">
+	var ruta = window.location; 
+document.write ("estas en" + ruta);
+</script>
+</body>
+</html>
